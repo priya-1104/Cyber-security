@@ -1,0 +1,33 @@
+# Dependencies & Builds
+node_modules/
+dist/
+build/
+coverage/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.jks
+*.keystore
+*service-account*.json
+credentials.json
+
+# Logs & System
+*.log
+.DS_Store
+Thumbs.db
+
+# Android
+.gradle/
+android/**/build/
+android/.gradle/
+android/local.properties
+android/**/*.apk
+android/**/*.aab
+android/.idea/
+android/*.iml
+

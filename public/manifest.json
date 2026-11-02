@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "CyberGuard AI - Cybersecurity Assistant",
+  "short_name": "CyberGuard",
+  "description": "Intelligent Cybersecurity Assistant for defensive security analysis, phishing detection, URL safety, data privacy scanning, and threat intelligence.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090d16",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["security", "productivity", "utilities"]
+}

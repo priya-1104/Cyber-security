@@ -1,0 +1,9 @@
+<resources>
+    <color name="cyber_dark_bg">#090D16</color>
+    <color name="cyber_surface">#121826</color>
+    <color name="cyber_primary">#00E5FF</color>
+    <color name="cyber_secondary">#00B0FF</color>
+    <color name="cyber_accent_green">#00E676</color>
+    <color name="cyber_accent_red">#FF1744</color>
+    <color name="cyber_accent_amber">#FFD600</color>
+</resources>

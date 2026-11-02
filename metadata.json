@@ -1,0 +1,7 @@
+{
+  "name": "CyberGuard AI",
+  "description": "Intelligent Cybersecurity Assistant - Native Android App powered by Google Gemini AI for defensive security analysis, phishing detection, URL safety, data privacy scanning, and threat intelligence.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
